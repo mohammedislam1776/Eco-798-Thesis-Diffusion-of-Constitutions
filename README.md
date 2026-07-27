@@ -33,7 +33,7 @@ thesis research/
 
 - **Source**: The raw constitutional texts are obtained from the National Bureau of Economic Research (NBER)/Maryland State Constitutions Project. 
 - **Corpus**: 113 historical state constitutions. The primary unit of observation is a state constitution adopted in a particular year.
-- **Preprocessing**: `Load_Constitution_Files.ipynb` cleans the texts by converting to lowercase, lemmatizing, and removing punctuation, whitespace, stop words, numerical tokens, and state names to isolate substantively informative words.
+- **Preprocessing**: `Cosine_Similarity.ipynb` cleans the texts by converting to lowercase, lemmatizing, and removing punctuation, whitespace, stop words, numerical tokens, and state names to isolate substantively informative words.
 
 *Note: The generated data files (e.g., `clean_constitutions.csv` at ~38MB and `regression_ready_data.csv` at ~14MB) are quite large and may require local generation if not downloaded directly.*
 

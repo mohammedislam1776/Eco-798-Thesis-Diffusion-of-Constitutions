@@ -27,9 +27,6 @@ thesis research/
 │   └── ...
 ├── text files (constitutions)/ # Raw textual corpus of state constitutions
 ├── background lit/             # Literature review materials and references
-├── paper/                      # Thesis drafts and final paper
-├── eco 798 slides/             # Presentation slides
-└── graphs/                     # Visualizations of similarity and topics
 ```
 
 ## Data
